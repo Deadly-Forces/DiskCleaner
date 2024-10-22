@@ -28,5 +28,5 @@ To run DiskCleaner, follow these steps:
    DiskCleaner requires administrative privileges to function correctly. Run the script as root using `sudo`.
 
    ```bash
-   sudo ./diskcleaner.sh
+   sudo ./diskclean.sh
 
