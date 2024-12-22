@@ -29,4 +29,6 @@ To run DiskCleaner, follow these steps:
 
    ```bash
    sudo ./diskclean.sh
-
+2. **Directory**:
+   The file will download in the Downloads of your OS so to change the directory type the following command `cd ~/Downloads`. Then type `chmod +x diskclean.sh` as
+   it provides root privileges to the file to all the user.
